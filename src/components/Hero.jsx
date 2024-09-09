@@ -1,5 +1,5 @@
 import React from "react";
-import my2 from "../assets/images/MYImage.jpg";
+import my2 from "../assets/images/MyImage.jpg";
 import Type from "./Type";
 import { Link } from "react-router-dom";
 
