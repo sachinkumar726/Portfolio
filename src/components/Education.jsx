@@ -7,7 +7,7 @@ const Education = () => {
       institution: 'Dayananda Sagar College of Engineering, Bangalore',
       grades: 'CGPA: 8.5',
       year: '2022-2024',
-      desc: "I am currently pursuing a Master's Degree in Computer Application at Dayananda Sagar College of Engineering. I have completed 4 semesters and have a CGPA of 8.50.",
+      desc: "I am have successfully completed my Master's Degree in Computer Application at Dayananda Sagar College of Engineering. I have completed 4 semesters and have a CGPA of 8.8.",
     },
     {
       degree: 'Bachelor of Computer Application',

@@ -9,7 +9,7 @@ function Type() {
           "Software Developer",
           "React Developer",
           "Tech Enthusiast",
-          "Open Source Contributor",
+          "Angulat Developer",
         ],
         autoStart: true,
         loop: true,

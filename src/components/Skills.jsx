@@ -1,20 +1,20 @@
 import React from 'react';
 import Slider from 'react-slick';
-import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 const Skills = () => {
   const skills = [
     { name: "C++", logo: "logo-cplusplus" },
-    { name: "Python", logo: "logo-python" },
-    { name: "HTML", logo:"logo-html5"},
+    { name: "Java", logo: "logo-java" },
+    { name: "HTML", logo: "logo-html5" },
     { name: "CSS", logo: "logo-css3" },
-    { name: "Bootstrap", logo: "logo-bootstrap"},
+    { name: "Bootstrap", logo: "logo-bootstrap" },
     { name: "JavaScript", logo: "logo-javascript" },
     { name: "React", logo: "logo-react" },
-    { name: "Tailwind", logo: "logo-tailwindcss" },
     { name: "Node.js", logo: "logo-node" },
     { name: "MySQL", logo: "logo-mysql" },
+    { name: "SpringBoot", logo: "logo-spring-boot" }
   ];
 
   const settings = {
