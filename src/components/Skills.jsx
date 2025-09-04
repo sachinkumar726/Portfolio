@@ -5,14 +5,13 @@ import "slick-carousel/slick/slick-theme.css";
 
 const Skills = () => {
   const skills = [
-    { name: "C++", logo: "logo-cplusplus" },
     { name: "Java", logo: "logo-java" },
     { name: "HTML", logo: "logo-html5" },
     { name: "CSS", logo: "logo-css3" },
     { name: "Bootstrap", logo: "logo-bootstrap" },
     { name: "JavaScript", logo: "logo-javascript" },
-    { name: "React", logo: "logo-react" },
-    { name: "Node.js", logo: "logo-node" },
+    { name: "Angular", logo: "logo-angular" },
+    { name: "Neo4j", logo: "logo-neo4j" },
     { name: "MySQL", logo: "logo-mysql" },
     { name: "SpringBoot", logo: "logo-spring-boot" }
   ];
